@@ -50,7 +50,7 @@
             </nav>
 
             <div>
-                <a href="#daftar" class="bg-brand-teal text-white font-semibold px-5 py-2.5 rounded-lg shadow hover:bg-brand-dark transition duration-300">
+                <a href="#daftar" class="bg-brand-teal text-white font-semibold px-5 py-2.5 rounded-lg shadow hover:bg-brand-dark transition duration-250">
                     Daftar Sekarang
                 </a>
             </div>
