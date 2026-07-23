@@ -1,5 +1,4 @@
-# websitekampusuas
-<!DOCTYPE html>
+# Politeknik Assalaam Surakarta
 <html lang="id" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
@@ -126,8 +125,8 @@
                 <div class="border rounded-2xl p-6 hover:shadow-xl transition border-gray-100 bg-brand-light flex flex-col justify-between">
                     <div>
                         <div class="w-12 h-12 bg-brand-teal text-white rounded-xl flex items-center justify-center font-bold text-xl mb-4">💻</div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-2">D3 Teknik Komputer</h3>
-                        <p class="text-sm text-gray-600 mb-6">Fokus pada rekayasa perangkat keras, jaringan komputer, IoT, dan pemrograman praktis.</p>
+                        <h3 class="text-xl font-bold text-gray-900 mb-2">D3 Manajemen Informatika</h3>
+                        <p class="text-sm text-gray-600 mb-6">menghasilkan lulusan yang terampil dalam merancang, mengembangkan, dan mengelola sistem informasi berbasis komputer untuk mendukung kebutuhan bisnis dan efisiensi operasional organisasi.</p>
                     </div>
                     <a href="#" class="text-brand-teal font-bold text-sm hover:underline">Detail Prodi &rarr;</a>
                 </div>
@@ -136,8 +135,8 @@
                 <div class="border rounded-2xl p-6 hover:shadow-xl transition border-gray-100 bg-brand-light flex flex-col justify-between">
                     <div>
                         <div class="w-12 h-12 bg-brand-teal text-white rounded-xl flex items-center justify-center font-bold text-xl mb-4">⚙️</div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-2">D3 Teknik Mesin</h3>
-                        <p class="text-sm text-gray-600 mb-6">Spesialisasi manufaktur, desain mekanik, pemeliharaan mesin industri, dan teknologi CAD/CAM.</p>
+                        <h3 class="text-xl font-bold text-gray-900 mb-2">S1 Manajemen Informasi Kesehatan</h3>
+                        <p class="text-sm text-gray-600 mb-6">menghasilkan tenaga ahli yang terampil dalam mengelola, menganalisis, dan mengamankan data serta sistem informasi kesehatan untuk meningkatkan kualitas layanan medis dan efisiensi operasional di fasilitas kesehatan.</p>
                     </div>
                     <a href="#" class="text-brand-teal font-bold text-sm hover:underline">Detail Prodi &rarr;</a>
                 </div>
@@ -146,8 +145,8 @@
                 <div class="border rounded-2xl p-6 hover:shadow-xl transition border-gray-100 bg-brand-light flex flex-col justify-between">
                     <div>
                         <div class="w-12 h-12 bg-brand-teal text-white rounded-xl flex items-center justify-center font-bold text-xl mb-4">🤖</div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-2">D3 Mekatronika</h3>
-                        <p class="text-sm text-gray-600 mb-6">Integrasi ilmu mekanik, elektronika, dan kontrol otomatisasi/robotika industri.</p>
+                        <h3 class="text-xl font-bold text-gray-900 mb-2">D3 Bahasa Inggris</h3>
+                        <p class="text-sm text-gray-600 mb-6">menghasilkan lulusan yang memiliki kemahiran berbahasa Inggris tingkat lanjut (lisan dan tulisan) serta mampu mengaplikasikannya secara profesional dalam berbagai bidang, seperti komunikasi bisnis, penerjemahan, pengajaran, maupun industri kreatif.</p>
                     </div>
                     <a href="#" class="text-brand-teal font-bold text-sm hover:underline">Detail Prodi &rarr;</a>
                 </div>
